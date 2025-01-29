@@ -38,13 +38,13 @@ That is to say that the philosophers should avoid dying.
 Simply type the "make" command into the terminal to compile the program.
 An executable called "philo" will be created and it is run as follows:
 
-´´´bash
+```bash
 ./philo 5 800 200 200
 
 ./philo 5 800 200 200 5
 
 ./philo 200 130 60 60 5
-´´´
+```
 
 The program takes four arguments and allows for an optional fifth argument.
 -	Argument 1:		The number of philosophers and forks		(1 - 200)
