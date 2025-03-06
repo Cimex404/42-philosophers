@@ -1,12 +1,21 @@
 #   Philosophers 42
 
-This is a 42 project that teaches about threads and mutexes.
-
-
-##	Disclaimer
-
-This project may not run very well or give the expected results on slower PCs.
-Please keep this in mind.
+<div style="display: flex; align-items: center;">
+	<div style="flex: 1; text-align: right;">
+		<img src="https://github.com/Cimex404/42-philosophers/blob/master/philosopher.png" align="right" alt="libft Logo" width="150">
+	</div>
+	<div style="flex: 2;">
+	<p>
+		This is a 42 project that teaches about threads and mutexes.
+	</p>
+	<p>
+		This project may not run well or five the expected results on some slower PCs due to multithreading.
+	</p>
+	<p>
+		Please keep this in mind.
+	</p>
+	</div>
+</div>
 
 ##  The Philosopher problem
 
